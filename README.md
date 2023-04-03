@@ -1,2 +1,2 @@
 # Anup_DataStructuresAndAlgorithms_Lab2Algo
-Data Structures and Algorithms, Lab-2 Assignment
+Data Structures and Algorithms, Lab-2 Assignment on DSAlgo.
